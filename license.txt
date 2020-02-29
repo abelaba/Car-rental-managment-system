@@ -1,0 +1,8 @@
+Rental requirments
+
+Each driver must be above the legal age of driving a car.
+Each driver must present a legal Id and one original photo(not returnable) during pickup.
+Each driver must present money which can be held as collateral during pickup.
+The company has the right to refuse drivers who donot comply with the rules and regulations.
+
+
